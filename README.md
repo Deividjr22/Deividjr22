@@ -15,7 +15,7 @@
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
    
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -29,9 +29,9 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Estatísticas do GitHub" height="200" src="https://github-readme-stats-seven.vercel.app/api?username=deividjr22&show_icons=true&theme=tokyonight&locale=pt-br" style="padding-right: 10px;" />
-  <img alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats-seven.vercel.app/api/top-langs?username=deividjr22&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br" />
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats-seven.vercel.app/api?username=deividjr22&show_icons=true&theme=tokyonight&locale=en" style="padding-right: 10px;" />
+  <img alt="Top Languages" height="200" src="https://github-readme-stats-seven.vercel.app/api/top-langs?username=deividjr22&show_icons=true&theme=tokyonight&layout=compact&locale=en" />
 </p>
