@@ -1,7 +1,7 @@
-<h3 align="center">Um desenvolvedor Python apaixonado do Brasil</h3>
+<h3 align="center">A passionate Python Developer from Brazil</h3>
 
 <p align="center">
-  Me chamo Deivid Junior, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente, estou focado no meu Curso de Programação em Python, desenvolvendo habilidades sólidas em lógica de programação, automação de tarefas, análise de dados e desenvolvimento back-end. Sou apaixonado por tecnologia e busco constantemente aplicar o poder e a simplicidade do Python para criar soluções eficientes e resolver problemas reais através do código.
+  My name is Deivid Junior, I'm 23 years old, and I'm from Rio de Janeiro. Currently, I am focused on my Python Programming Course, developing solid skills in programming logic, task automation, data analysis, and back-end development. I am passionate about technology and constantly seek to apply the power and simplicity of Python to build efficient solutions and solve real-world problems through code.
 </p>
 
 <h3 align="left">Connect with me:</h3>
