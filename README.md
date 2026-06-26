@@ -1,8 +1,15 @@
-<h3 align="center">A passionate Python Developer from Brazil</h3>
+# Hi, I'm Deivid Junior! 👋
 
-<p align="center">
-  My name is Deivid Junior, I'm 23 years old, and I'm from Rio de Janeiro. Currently, I am focused on my Python Programming Course, developing solid skills in programming logic, task automation, data analysis, and back-end development. I am passionate about technology and constantly seek to apply the power and simplicity of Python to build efficient solutions and solve real-world problems through code.
+### 👨‍💻 Exploring the world of Code | Python & Web Development
+
+<p align="left">
+  My name is Deivid Junior, I'm 23 years old, and I'm from Rio de Janeiro. Currently, I am focused on my Python Programming Course and pursuing Full Stack development. I enjoy learning how to bridge the gap between robust back-end logic and dynamic web applications, focusing on programming logic, task automation, and data analysis.
 </p>
+
+* 🌱 **Currently learning:** Advanced Python, Django framework, and modern database management systems.
+* ⚡ **Goals:** Build automated solutions, optimize data workflows, and develop clean, scalable web applications.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +39,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats-seven.vercel.app/api?username=deividjr22&show_icons=true&theme=tokyonight&locale=en" style="padding-right: 10px;" />
-  <img alt="Top Languages" height="200" src="https://github-readme-stats-seven.vercel.app/api/top-langs?username=deividjr22&show_icons=true&theme=tokyonight&layout=compact&locale=en" />
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deividjr22&show_icons=true&theme=tokyonight&locale=en" style="padding-right: 10px;" />
+  <img alt="Top Languages" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=deividjr22&show_icons=true&theme=tokyonight&layout=compact&locale=en" />
 </p>
