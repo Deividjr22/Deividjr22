@@ -36,15 +36,4 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
-### 📊 GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img alt="GitHub Stats" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deividjr22&show_icons=true&theme=tokyonight&locale=en" />
-    </td>
-    <td style="padding-left: 10px;">
-      <img alt="Top Languages" height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=deividjr22&show_icons=true&theme=tokyonight&layout=compact&locale=en" />
-    </td>
-  </tr>
-</table>
